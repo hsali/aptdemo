@@ -39,9 +39,23 @@
     "@types/lodash": "^4.14.66",
     "@types/node": "^6.0.46",
     "concurrently": "^3.2.0",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-htmlmin": "^4.0.0",
+    "gulp-if": "^2.0.2",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-newer": "^1.4.0",
+    "gulp-ng-annotate": "^2.1.0",
+    "gulp-notify": "^3.1.0",
+    "gulp-sftp": "^0.1.5",
+    "gulp-uglify": "^3.0.0",
+    "gulp-useref": "^3.1.4",
     "lite-server": "^2.2.2",
+    "run-sequence": "^2.2.1",
     "typescript": "2.2.2",
-    "typings": "^2.1.1"
+    "typings": "^2.1.1",
+    "wiredep": "^4.0.0"
   },
   "repository": {}
 }
