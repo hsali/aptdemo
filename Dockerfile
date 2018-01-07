@@ -10,6 +10,8 @@ WORKDIR /usr/src/app
 # Copy dependency definitions
 COPY package.json /usr/src/app
 
+#install typescript
+RUN npm install typescript -g
 # Install dependecies
 RUN npm install
 
